@@ -16,6 +16,8 @@ Syntax highlighted code block
 ### Header 3
 #### Header 4
 
+This is a Vim Text!
+
 - Bulleted
 - List
 
