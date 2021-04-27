@@ -1,0 +1,13 @@
+- title: Back to the Future
+  image-path: /images/movie-scripts/back-to-the-future.jpg
+  url: http://www.imdb.com/title/tt0088763/
+  short-description: This is a 1980s sci-fi classic about traveling through time
+  year: 1980
+  categorie: sci-fi
+
+- title: Lord of the rings
+  image-path: /images/movie-scripts/start-wars.jpg
+  url: http://www.imdb.com/title/tt0076759/
+  short-description: Star Wars is an American epic space opera franchise centered on a film series created by George Lucas
+  year: 1977
+  categorie: sci-fi 
