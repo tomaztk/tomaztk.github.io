@@ -1,0 +1,14 @@
+- title: Harry Potter and philosopher's stone
+  image-path: /images/movie-scripts/back-to-the-future.jpg
+  url: http://www.imdb.com/title/
+  short-description: This is a 1980s sci-fi classic about traveling through time
+  year: 1999
+  categorie: sci-fi
+
+
+- title: Harry Potter and Goblet of fire
+  image-path: /images/movie-scripts/back-to-the-future.jpg
+  url: http://www.imdb.com/title/
+  short-description: This is a 1980s sci-fi classic about traveling through time
+  year: 2002
+  categorie: sci-fi
