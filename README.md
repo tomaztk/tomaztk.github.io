@@ -18,6 +18,15 @@ Syntax highlighted code block
 
 ```
 
+
+### Cloning the repository
+You can follow the steps below to clone the repository.
+
+```
+sudo git clone -n https://github.com/tomaztk/tomaztk.github.io.git
+```
+
+
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
